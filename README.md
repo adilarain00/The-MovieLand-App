@@ -1,6 +1,6 @@
 # MovieLand React App
 
-<img src="./public/MovieLand.PNG" style="height: 500px; width: 100%; border-radius: 10px" />
+<img src="./public/MovieLand.PNG" style="height: 300px; width: 100%; border-radius: 10px" />
 
 ### Description
 
