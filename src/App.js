@@ -5,7 +5,8 @@ import MovieCard from "./MovieCard";
 import SearchIcon from "./search.svg";
 
 // API URL
-const API_URL = "https://www.omdbapi.com?apikey=e3b7b570";
+const API_URL =
+  "https://cors-anywhere.herokuapp.com/https://www.omdbapi.com?apikey=e3b7b570";
 
 const App = () => {
   const [searchTerm, setSearchTerm] = useState("");
