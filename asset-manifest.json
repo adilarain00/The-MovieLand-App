@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/The-MovieLand-App/static/css/main.9b37ecff.css",
+    "main.js": "/The-MovieLand-App/static/js/main.e3ccebfe.js",
+    "index.html": "/The-MovieLand-App/index.html",
+    "static/media/search.svg": "/The-MovieLand-App/static/media/search.3af80ee6cd4cef973810f74b91e10f80.svg",
+    "main.9b37ecff.css.map": "/The-MovieLand-App/static/css/main.9b37ecff.css.map",
+    "main.e3ccebfe.js.map": "/The-MovieLand-App/static/js/main.e3ccebfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b37ecff.css",
+    "static/js/main.e3ccebfe.js"
+  ]
+}
